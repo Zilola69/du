@@ -14,7 +14,7 @@
 <div class="container markdown-body">
       <h1 id="du">DU</h1>
 
-<img src="http://http://www.du.ac.in/uploads/images/logo_du.png">
+<img src="http://www.enaindia.in/uploads/newsfiles/Delhi-University.jpg">
 
 <table>
 <tbody><tr>
