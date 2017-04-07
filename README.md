@@ -7,7 +7,7 @@
     
 <title>DU</title>
 
-<link href="/JMC/assets/css/style.css?v=b17e44f34d01db74c0d32322381a9c10a02fe685" rel="stylesheet">
+
 </head>
 
 <body>
