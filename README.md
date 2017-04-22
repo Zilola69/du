@@ -46,6 +46,12 @@
 </tr>
 
 <tr>
+<th>headings</th>
+<td>This webpage contains H2 headings.</td>
+<td>It is good that it has others heading</td>
+</tr>
+
+<tr>
 <th>gzip compression</th>
 <td>it is recommended to use html compression e-g: gzip compression</td>
 <td>this web page is not using html compression. </td>
@@ -90,7 +96,7 @@
 <tr>
 <th>Keywords Test</th>
 <td>Common keywords are not appearing in one or more of the meta-tags above</td>
-<td>Primary keywords should appear in this meta-tags to help identify the topic of this webpage to search engines.
+<td>Primary keywords should appear in this meta-tags to help identify the topic of this webpage to search engines. <p>
 <p> ⟩⟩  Keyword(s) not included in Meta-Title <p> 
 ⟩⟩  Keyword(s) not included in Meta-Description</td>
 </tr>
@@ -111,6 +117,17 @@
 <th>Google Search Results Preview</th>
 <td colspan="2">Home - University of Delhi http://www.du.ac.in/</td>
 </tr>
+
+<tr>
+<th>Robots.txt Test</th>
+<td colspan="2">This site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
+</tr>
+
+<tr>
+<th>Sitemap Test</th>
+<td colspan="2">1 sitemaps files for your website <p> ⟩⟩ http://www.du.ac.in/sitemap.xml </td>
+</tr>
+
 </tbody></table>
 
 </div>
