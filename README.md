@@ -12,7 +12,7 @@
 
 <body>
 <div class="container markdown-body">
-      <h1 id="du">DU</h1>
+      <h1 id="du">Delhi University</h1>
 
 <img src="http://www.enaindia.in/uploads/newsfiles/Delhi-University.jpg">
 
