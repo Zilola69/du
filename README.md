@@ -82,6 +82,20 @@
 </tr>
 
 <tr>
+<th>Keywords Test</th>
+<td>More importantly, the keywords in this page should appear within natural sounding and grammatically correct copy.</td>
+<td>There is likely no optimal keyword density (search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor). It can be useful, however, to note which keywords appear most often in this page, and if they reflect the intended topic of this page.</td>
+</tr>
+
+<tr>
+<th>Keywords Test</th>
+<td>Common keywords are not appearing in one or more of the meta-tags above</td>
+<td>Primary keywords should appear in this meta-tags to help identify the topic of this webpage to search engines.
+<p> ⟩⟩  Keyword(s) not included in Meta-Title <p> 
+⟩⟩  Keyword(s) not included in Meta-Description</td>
+</tr>
+
+<tr>
 <th>WWW redirection Test</th>
 <td>Redirect is not place to redirect traffic from your non-preferred domain.</td>
 <td>This website does not directs www.du.ac.in and du.ac.in to the same URL.</td>
@@ -94,8 +108,8 @@
 </tr>
 
 <tr>
-<th>admin email</th>
-<td colspan="2"></td>
+<th>Google Search Results Preview</th>
+<td colspan="2">Home - University of Delhi http://www.du.ac.in/</td>
 </tr>
 </tbody></table>
 
