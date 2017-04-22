@@ -63,11 +63,7 @@
 <td>155 internal urls found that are not seo friendly.</td>
 </tr>
 
-<tr>
-<th>keywords</th>
-<td>should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
-<td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
-</tr>
+
 
 <tr>
 <th>Underscores in Links Test</th>
@@ -85,6 +81,12 @@
 <th>Domain Authority</th>
 <td>It is good to have domain authority more than 20.</td>
 <td>this webpage has less than 20.</td>
+</tr>
+
+<tr>
+<th>Keywords</th>
+<td>should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
+<td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
 </tr>
 
 <tr>
@@ -129,6 +131,32 @@
 </tr>
 
 </tbody></table>
+
+<p> <p>
+
+<img src="http://www.clipartbest.com/cliparts/yik/6Ad/yik6Adx6T.png">
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
+</tr>
+
+<tr>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>NIL</th>
+<td>NIL</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
 
 </div>
 </body></html>
