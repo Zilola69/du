@@ -136,6 +136,29 @@
 
 <img src="http://www.clipartbest.com/cliparts/yik/6Ad/yik6Adx6T.png">
 
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL:</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank</th>
+</tr>
+
+<tr>
+<th>http://www.du.ac.in/</th>
+<td>60.11</td>
+<td>5.72</td>
+</tr>
+
+</tbody>
+</table>
+
 <table>
 <tbody>
 
